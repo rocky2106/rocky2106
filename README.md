@@ -1,24 +1,69 @@
-<h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
 
-- 🌱 I’m currently learning **DSA, Django**
-- 💬 Ask me about **JavaScript, Python, OOPs, HTML, CSS, JS, React.js, Bootstrap, C++**
-- 📫 How to reach me **rockie.2106@gmail.com**
-- 🌐 Know more about me: (https://rocky2106.github.io/portfolio/)
 
-### Connect with me:
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/rockie_rohit21)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-yadav-a41452331/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rohi0.1/?__pwa=1)
+<h3 align="center">🚀 About Me</h3>
 
-### 🛠️ Languages and Tools:
-<p>
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png&style=for-the-badge&logo=C++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://juststickers.in/wp-content/uploads/2016/05/django-badge.png?&style=for-the-badge&logo=django&logoColor=white"/>
+<p align="center">
+🌟 Full-stack developer with a passion for building impactful, user-centric digital experiences.<br>
+🧠 Constantly learning and experimenting with new tools, tech, and ideas.<br>
+🎯 Dedicated to turning ideas into scalable solutions using code.
 </p>
 
+---
+
+<h3 align="center">🔧 Tech Stack & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,git,github,vscode,mysql" />
+</p>
+
+---
+
+<h3 align="center">📌 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/Rocky2106">
+    <img src="https://img.shields.io/badge/Attera-E--commerce--Beauty-blue?style=for-the-badge&logo=github" />
+  </a>
+  <br>
+  <small>Handmade skincare product website built with HTML, CSS & Bootstrap</small>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rocky2106">
+    <img src="https://img.shields.io/badge/Jo%20Junction-Streaming%20Platform-blueviolet?style=for-the-badge&logo=github" />
+  </a>
+  <br>
+  <small>Multimedia concept platform for rich content delivery</small>
+</p>
+
+---
+
+<h3 align="center">📈 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rocky2106&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky2106&theme=radical" width="400"/>
+</p>
+
+---
+
+<h3 align="center">🌐 Let's Connect</h3>
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rocky2106&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
