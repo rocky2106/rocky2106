@@ -19,6 +19,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://www.svgrepo.com/show/353657/django-icon.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://juststickers.in/wp-content/uploads/2016/05/django-badge.png?&style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
