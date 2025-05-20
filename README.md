@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJwZ3o0aGhld3ZnMzh1MHdtdDZ2emM5enZncHI5OXBrZGs4OG45dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Working with coffee" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer working" width="300" />
 </p>
+
 
 
 <h3 align="center">🚀 About Me</h3>
